@@ -1,1 +1,6 @@
 
+pyspark
+streamlit
+pandas
+matplotlib
+seaborn
