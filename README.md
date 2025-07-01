@@ -1,6 +1,6 @@
 # 🚖 NYC Yellow Taxi Trip Analysis Dashboard
 
-A scalable Streamlit dashboard that leverages **PySpark** to analyze NYC Yellow Taxi trip data for trends in trip volume, fare amounts, and more. Ideal for working with large datasets efficiently.
+A scalable dashboard that leverages **PySpark** to analyze NYC Yellow Taxi trip data for trends in trip volume, fare amounts, and more. Ideal for working with large datasets efficiently.
 
 ---
 
