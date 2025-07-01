@@ -1,10 +1,26 @@
-# 🔥 PySpark Data Analysis Dashboard
+# 🚖 NYC Yellow Taxi Trip Analysis Dashboard
 
-## 🚀 Features
-- Scalable data processing with PySpark
-- Visualization with Matplotlib and Seaborn
-- Interactive UI with Streamlit
+A scalable Streamlit dashboard that leverages **PySpark** to analyze NYC Yellow Taxi trip data for trends in trip volume, fare amounts, and more. Ideal for working with large datasets efficiently.
 
-## 📦 Links
+---
 
-https://8540-34-139-185-41.ngrok-free.app/
+## 📊 Key Features
+
+- 🔍 **Interactive Filters**: Filter data by date and payment type.
+- ⏰ **Trips per Hour**: Understand demand patterns throughout the day.
+- 💰 **Daily Fare Totals**: Monitor revenue trends.
+- 💳 **Payment Type Distribution**: Analyze preferred payment methods.
+- 📉 **Fare vs Distance Scatter Plot**: Detect fare anomalies and distribution patterns.
+
+---
+
+## 🧱 Tech Stack
+
+
+- **Apache Spark (PySpark)**: Distributed data processing for scalability.
+- **Pandas** & **Seaborn/Matplotlib**: Data visualization and manipulation.
+- **Parquet**: Efficient columnar storage format used for loading taxi data.
+
+---
+
+
